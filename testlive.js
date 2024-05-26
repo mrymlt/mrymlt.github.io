@@ -1,13 +1,4 @@
-<!-- <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello</h1>
-<p>I'm hosted with GitHub Pages.</p>
-
-</body>
-</html> -->
-
-<!-- <div id="container"></div>
+<div id="container"></div>
 <script type="module">
 import { createPlayground } from 'https://unpkg.com/livecodes@0.5.0';
 
@@ -18,4 +9,4 @@ createPlayground('#container', {
     js: 'console.log("Hello, from JS!");',
     console: 'open',
   },
-}); -->
+});
